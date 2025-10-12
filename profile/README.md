@@ -38,7 +38,7 @@ When Lab projects mature and prove their value, they graduate to become part of 
 
 [![Main Organization](https://img.shields.io/badge/Mage--OS-Main%20Organization-orange?style=for-the-badge&logo=github)](https://github.com/mage-os)
 [![Discord Community](https://img.shields.io/badge/Discord-Join%20Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](http://chat.mage-os.org)
-[![Graduated Projects](https://img.shields.io/badge/Graduated-Lab%20Projects-green?style=for-the-badge&logo=github)](https://github.com/mage-os?q=topic%3Amage-os-lab)
+[![Graduated Projects](https://img.shields.io/badge/Graduated-Lab%20Projects-green?style=for-the-badge&logo=github)](https://github.com/orgs/mage-os/repositories?q=topic%3Amage-os-lab)
 
 ### Ways to Contribute:
 - 💡 **Share Ideas**: Propose new experimental features or improvements
