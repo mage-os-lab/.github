@@ -34,6 +34,15 @@ Mage-OS Lab serves as our experimental playground where innovative ideas are bor
 
 When Lab projects mature and prove their value, they graduate to become part of the main Mage-OS ecosystem or standalone community modules.
 
+## 💡 Propose a Lab Project
+
+Have an idea for a module or experiment? Here's how to get started:
+
+1. **Join our Discord** at [chat.mage-os.org](http://chat.mage-os.org)
+2. **Post your proposal in the `#tech` channel**: describe what you want to build, why it's useful, and whether you have existing code
+3. **Discuss it with the community**: feel free to join the weekly tech meeting to talk it through
+4. **Get started**: once approved, a repository is created for your project in the Mage-OS Lab organization
+
 ## 🌟 Get Involved
 
 [![Main Organization](https://img.shields.io/badge/Mage--OS-Main%20Organization-orange?style=for-the-badge&logo=github)](https://github.com/mage-os)
@@ -41,7 +50,7 @@ When Lab projects mature and prove their value, they graduate to become part of 
 [![Graduated Projects](https://img.shields.io/badge/Graduated-Lab%20Projects-green?style=for-the-badge&logo=github)](https://github.com/orgs/mage-os/repositories?q=topic%3Amage-os-lab)
 
 ### Ways to Contribute:
-- 💡 **Share Ideas**: Propose new experimental features or improvements
+- 💡 **Share Ideas**: Propose new experimental features or improvements in the `#tech` channel on Discord
 - 🔧 **Contribute Code**: Help develop and test Lab modules
 - 🐛 **Report Issues**: Help us identify and fix problems
 - 📚 **Improve Documentation**: Make our projects more accessible
